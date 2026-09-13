@@ -1,5 +1,7 @@
 ## Closed-form expression of Fibonacci numbers
 This is done as part of my recreational programming late-night sessions and does not comply with the well-known recursion approach, but instead emphasizes Binet's formula.
+<br> <br>
+__Exigent__: No language model (so called AI) have been used in this repo. This is all done by me and my perception of Binet's formula, powered with knowladge based on findings on the internet and nothing more. Precision may vary for big numbers. Thats why input is limited to 99.
 
 ## Build
 This repo requires Rust language.<br>To run the program use Rust's package manager cargo.
