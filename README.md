@@ -11,3 +11,4 @@ This repo requires Rust language.<br>To run the program use Rust's package manag
 ## Info
 _rustc version: rustc 1.98.1 (48a229cea 2026-09-01)_<br>
 _Ref: [Wiki](https://en.wikipedia.org/wiki/Fibonacci_sequence#Closed-form_expression)_
+_Author: Martin Duchev_
